@@ -1,2 +1,2 @@
 # TicTacToe
-TicTacToe in JavaFX, game is able to recognize a winner.
+TicTacToe, game is able to recognize a winner.
